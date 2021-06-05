@@ -366,7 +366,7 @@ News·Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 大视界TV,http://189.ly93.cc/MruQBfM73Qnu/9132223625637130?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 
-·港台电视·_455,#genre#
+·港台电视·_666,#genre#
 TVB·翡翠台,https://flv3948069e.live.126.net/live/15709367ad993ee5b5fb27524538c24.flv
 TVB·明珠台,http://50.7.161.82:8277/streams/d/peal_pye/playlist.m3u8
 TVB·新闻台,https://flv3948069e.live.126.net/live/157093567ad993eeb5fb27524538c24.flv
@@ -397,7 +397,7 @@ CATCHPAYj电影台,http://50.7.161.82:8277/streams/d/cmovie_pye/playlist.m3u8
 三立台湾台,http://50.7.161.82:8278/streams/d/sltw_pye/playlist.m3u8
 八度空间,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
-·音乐嗨歌·_455,#genre#
+·音乐嗨歌·_666,#genre#
 DJ·体面,http://189.ly93.cc/Ufiii2Ez6zIv/1130124235746654?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 DJ·情火,http://189.ly93.cc/Rrmqiu7fqMfu/4154723731487362?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 DJ·爱的路上千万里,http://189.ly93.cc/AjMNbiIJr6vy/4154724975796127
