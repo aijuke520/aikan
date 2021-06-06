@@ -7,6 +7,7 @@ STV MV-4,https://189.ly93.cc/Rjqymq6ZnqQf/11517213913819460?accessCode=kth0&acce
 STV MV-5,https://189.ly93.cc/iQJFNrvMfA3e/41525213493465722?accessCode=crr5&accessToken=C0132FE0EF60105EECD170BDB9539212
 STV MV-6,https://189.ly93.cc/63aEbeUNFVfq/41325213493486692?accessCode=rds7&accessToken=C0132FE0EF60105EECD170BDB9539212
 STV MV-7,https://189.ly93.cc/Y7vqMjB7JRNn/41525213493465722?accessCode=qqq6&accessToken=C0132FE0EF60105EECD170BDB9539212
+STV MV-8,https://189.ly93.cc/fUNRraBBBzue/61518213465680585?accessCode=9bf9&accessToken=C0132FE0EF60105EECD170BDB9539212
 央视频道,#genre#
 CCTV1 综合,http://101.71.255.229:6610/zjhs/2/10126/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://183.207.255.190/live/program/live/cctv1hd/4000000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8#http://121.31.30.91:8085/ysten-business/live/cctv-1/1.m3u8#http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8#rtmp://58.200.131.2:1935/livetv/cctv1hd
 CCTV2 财经,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226655/40417429.smil#http://cm.wshls.homecdn.com/live/11ecc.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/index.m3u8#http://101.71.255.229:6610/zjhs/2/10127/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://121.31.30.87:8085/ysten-business/live/cctv-2/1.m3u8#rtmp://58.200.131.2:1935/livetv/cctv2hd
