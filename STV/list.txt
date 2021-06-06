@@ -10,6 +10,7 @@ STV MV-7,https://189.ly93.cc/Y7vqMjB7JRNn/41525213493465722?accessCode=qqq6&acce
 STV MV-8,https://189.ly93.cc/fUNRraBBBzue/61518213465680585?accessCode=9bf9&accessToken=C0132FE0EF60105EECD170BDB9539212
 STV MV-9,https://189.ly93.cc/UfMnmmYnimEj/71382113490142573?accessToken=C0132FE0EF60105EECD170BDB9539212
 STV MV-10,https://189.ly93.cc/yu2iayUnuInm/41525213493465722?accessToken=C0132FE0EF60105EECD170BDB9539212
+STV MV-11,https://189.ly93.cc/zmUrYzuiEbqu/21396113487660674?accessToken=C0132FE0EF60105EECD170BDB9539212
 周二珂Chloe♥ “十字路口,https://189.ly93.cc/V77NBz6R3QZn/31367113392863611?accessCode=py1n&accessToken=C0132FE0EF60105EECD170BDB9539212
 央视频道,#genre#
 CCTV1 综合,http://101.71.255.229:6610/zjhs/2/10126/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://183.207.255.190/live/program/live/cctv1hd/4000000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8#http://121.31.30.91:8085/ysten-business/live/cctv-1/1.m3u8#http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8#rtmp://58.200.131.2:1935/livetv/cctv1hd
