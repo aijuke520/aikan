@@ -1,3 +1,4 @@
+广播频道,#genre#
 玩家总动员QQ群：1082599899
 CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
