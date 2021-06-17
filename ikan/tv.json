@@ -663,7 +663,7 @@
 		"itemid":"uid02",
 		"name":"Channel",
 		"num":"0095",
-		"urllist":"rtmp://58.200.131.2/livetv/channelv,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv"
+		"urllist":"rtmp://58.200.131.2/livetv/channelv#rtmp://ivi.bupt.edu.cn:1935/livetv/channelv"
 	},
 	
 	{
@@ -677,14 +677,14 @@
 		"itemid":"uid02",
 		"name":"ELTA影剧",
 		"num":"0097",
-		"urllist":"mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b,mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b"
+		"urllist":"mitv://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b#mitv://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b"
 	},
 	
 	{
 		"itemid":"uid02",
 		"name":"中天新闻",
 		"num":"0098",
-		"urllist":"mitv://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5,mitv://fccseuro.pvbox.live:18912/5b14096a000dc9172181b048e1caf279,mitv://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63,mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5"
+		"urllist":"mitv://fccseuro.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5#mitv://fccseuro.pvbox.live:18912/5b14096a000dc9172181b048e1caf279#mitv://fccsovh.pvbox.live:18912/5c7249b6000641f71d5776673c1d2f63#mitv://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5"
 	},
 	
 	{
