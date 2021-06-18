@@ -1,4 +1,4 @@
-影视频道http://box.hdpfans.com/adv.txt
+影视频道,#genre#
 邵氏影院,http://106.53.212.251/iptv/douyu.php?id=4246519
 邵氏老电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_97065163_17925468.m3u8
 鹤峰影视,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
