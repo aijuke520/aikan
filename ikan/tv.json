@@ -1237,7 +1237,7 @@
 		"name":"林正英",
 		"num":"0177",
 		"urllist":"http://121.12.115.156/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8"
-	}
+	},
 	
 	{
 		"itemid":"uid06",
@@ -1251,6 +1251,55 @@
 		"name":"经典电影",
 		"num":"0179",
 		"urllist":"http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8"
+	},
+	
+	{
+		"itemid":"uid06",
+		"name":"经典影视",
+		"num":"0180",
+		"urllist":"https://tx.liveplay.live.kugou.com/live/fx_hifi_251702616_avc.m3u8"
+	},
+
+	{
+		"itemid":"uid06",
+		"name":"亚洲影院",
+		"num":"0181",
+		"urllist":"http://125.210.152.21:9120/live/YZYY.m3u8"
+	},
+
+	{
+		"itemid":"uid06",
+		"name":"Y+",
+		"num":"0182",
+		"urllist":"http://hms3149nc1972679604.live.aikan.miguvideo.com/wh7f454c46tw2326942988_-1320082030/PLTV/88888888/224/3221230226/index.m3u8"
+	},
+
+	{
+		"itemid":"uid06",
+		"name":"CHC高清电影",
+		"num":"0183",
+		"urllist":"http://125.210.152.18:9090/live/CHCGQDY.m3u8"
+	},
+
+	{
+		"itemid":"uid06",
+		"name":"CHC家庭电影",
+		"num":"0184",
+		"urllist":"http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8"
+	},
+
+	{
+		"itemid":"uid06",
+		"name":"CHC动作电影",
+		"num":"0185",
+		"urllist":"http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8"
+	},
+
+	{
+		"itemid":"uid06",
+		"name":"不断增加中...",
+		"num":"0186",
+		"urllist":"http://39.135.138.59:18890/PLTV/88888910/224/3221225769/index.m3u8"
 	}],
 	"type":[
 	{
