@@ -94,7 +94,7 @@ CGTN法语,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231550/1.m3u8
 CCTV4K,http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 CCTV16-4K,http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/index.m3u8#http://223.110.235.24/ott.js.chinamobile.com/PLTV/3/224/3221228127/index.m3u8
 欢笑剧场,http://223.110.235.27/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8#http://183.207.248.71/cntv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc
-纯享4K 16M2160,http://183.207.248.110/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8#http://111.40.196.36/0000000000000000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1
+纯享4K,http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8#http://183.207.248.110/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://111.40.196.36/0000000000000000/0/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1
 4K修复,http://223.110.236.19/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8
 4K剧场,http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8#http://223.110.235.2/ott.js.chinamobile.com/PLTV/3/224/3221227896/index.m3u8
 4K电影,http://60.255.49.202/live/emdy4k_8000.m3u8
