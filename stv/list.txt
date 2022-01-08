@@ -1023,6 +1023,7 @@ News·Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 ·港台杂类·_121,#genre#
+拳击,vjms://122.155.180.8:8500:3502/live/cid=408
 靖天电影台,mitv://ns2.hellotvvod.com:9906/86533153a6a741d3af531f8efa6054f6
 爆谷台,mitv://ns2.hellotvvod.com:9906/1d7e379fa2f04936b9d2dce207efb097
 HKC电影台,mitv://ns2.hellotvvod.com:9906/6d83197a57a94c41848d3945e38a8607
