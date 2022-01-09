@@ -237,22 +237,30 @@ FIGHT NETWORK,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 电影轮播,#genre#
 爱看影视,http://223.110.243.150/ott.js.chinamobile.com/PLTV/3/224/3221227539/index.m3u8
-音乐石榴,http://121.12.115.156/tx.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1_2000.m3u8
-新歌速递,http://121.12.115.156/tx.hls.huya.com/src/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1_2000.m3u8
+音乐石榴,http://121.51.249.6/tx.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1_2000.m3u8
+新歌速递,http://121.51.249.6/tx.hls.huya.com/src/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1_2000.m3u8
 哔哩音悦台,https://d1--cn-gotcha204.bilivideo.com/live-bvc/331555/live_11153765_9369560/index.m3u8
-埋堆堆,http://121.12.115.156/tx.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1_2000.m3u8
+埋堆堆,http://121.51.249.6/tx.hls.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1_2000.m3u8
 老电影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 老电影 备,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 香港电影三台,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/235406/live_102569357_4797059_1500.m3u8
 邵氏老电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/703359/live_97065163_17925468_1500.m3u8
+4K粤语经典电影,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/694594/live_13094057_11553564_2500.m3u8
 1905网电影频道,http://42.56.91.136:80/live-bvc/715137/live_1596341281_80944351_minihevc.m3u8
 橙子1台,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/259011/live_1849890871_69368354.m3u8
 橙子2台,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/973550/live_457200741_74685781.m3u8
 橙子3台,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/393383/live_1001126625_48904870.m3u8
 橙子4台,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/136361/live_1755442628_48682447.m3u8
 亚视本港台剧集录播,http://cn-sdjn2-cu-live-02.bilivideo.com/live-bvc/630208/live_328982282_2927960.m3u8
+周星驰,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/659367/live_595044057_16935602_1500.m3u8
+4K耀祖哥,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/569944/live_1141145300_87247375_1500.m3u8
+粤语,https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/459889/live_396073268_30650221_1500.m3u8
 华娱卫视,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/268205/live_1845346961_34762297.m3u8
 经典影视台,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/587173/live_233603799_86016368.m3u8
+经典功夫台,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/784715/live_179302204_68184269.m3u8
+熊猫电影1台,672301/live_583833401_70191453.m3u8
+熊猫电影2台,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/451329/live_400311478_37488632.m3u8
+闲逸音乐,http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc//725502/live_1421608640_27889856.m3u8
 经典电影3,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 明星影院,http://hpull.kktv8.com/livekktv/104621340/playlist.m3u8
