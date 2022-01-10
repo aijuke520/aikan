@@ -115,6 +115,12 @@ IPTV淘BABY,http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 IPTV淘娱乐,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 IPTV淘剧场,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 IPTV淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
+热爱大自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+Bloomberg+ 4K,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+One by 4K,http://136.243.42.146:1400
+One by 4K,http://rtmp.one.by:1499
 
 少儿频道,#genre#
 CCTV-14,http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
@@ -3499,7 +3505,7 @@ now財經,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH23/
 TVBS新聞台,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
 TVBS HD台,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 
-你懂得,#genre#
+私人频道,#genre# 
 彩虹e台,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
  彩虹电影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
  LOOK TV,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8 
