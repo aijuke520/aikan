@@ -3694,6 +3694,7 @@ CCTV-14,http://39.134.39.39/PLTV/88888888/224/3221226166/index.m3u8#http://hwrr.
 BESTV,http://39.134.39.39/PLTV/88888888/224/3221226335/index.m3u8
 Spacetoon(外),https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 快乐儿童(外),https://happykids-vizio.amagi.tv/playlist480p.m3u8
+乐高频道,https://legochannel-roku.amagi.tv/playlist.m3u8#https://legochannel-vizio.amagi.tv/playlist.m3u8
 
 体育频道,#genre#
 CCTV-5,http://39.135.138.59:18890/PLTV/88888910/224/3221225755/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225756/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
@@ -3746,6 +3747,7 @@ UFC,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000
 搏击网络,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 摔跤电视,https://playout4multirtmp.tulix.tv/live14/Stream1/playlist.m3u8
+硬打击,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 Billy C Boxing TV,https://playout4multirtmp.tulix.tv/live25/Stream1/playlist.m3u8
 Stadium,https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 Canal 11,https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8 
@@ -6914,6 +6916,8 @@ TVBS新聞台,http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.
 TVBS HD台,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 
 国外频道,#genre#
+V Galega,https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8
+CMN TV,http://in.uaimacks.net.br:1935/macks/macks.sdp/chunklist_w1760176873.m3u8?IMDSFULL
 鬼魂电视,https://haunttv-roku.amagi.tv/playlist.m3u8
 户外频道(澳大利亚),https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 户外电视(加拿大),https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
