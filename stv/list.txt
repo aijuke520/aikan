@@ -4015,10 +4015,10 @@ Bestv国外,rtsp://183.252.166.199/PLTV/88888888/224/3221226748/45950069.smil
 河北银河真人秀场,http://111.63.77.77/gitv_live/GITV-HB-6/GITV-HB-6.m3u8?p=GITV&area=HBYD 
 
 数字网络,#genre#
-求索动物,http://39.134.134.85/000000001000/6000000002000010046/1.m3u8
-求索科学,http://39.134.134.85/000000001000/6000000002000032344/1.m3u8
-求索纪录,http://39.134.134.85/000000001000/6000000002000032052/1.m3u8
-求索生活,http://39.134.134.85/000000001000/6000000002000003382/1.m3u8
+求索科学,http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000032344&amp;livemode=1&amp;stbId=3&amp;channel-id=wasusyt
+求索纪录,http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000032052&amp;livemode=1&amp;stbId=3&amp;channel-id=wasusyt
+求索生活,http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000003382&amp;livemode=1&amp;stbId=3&amp;channel-id=wasusyt
+求索动物,http://39.134.134.84/0000000000001001/1/1.m3u8?Contentid=6000000002000010046&amp;livemode=1&amp;stbId=3&amp;channel-id=wasusyt
 中华美食,http://39.134.115.163:8080/PLTV/88888910/224/3221225924/index.m3u8#http://183.207.248.35/PLTV/4/224/3221227017/index.m3u8
 清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 国家公园http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
