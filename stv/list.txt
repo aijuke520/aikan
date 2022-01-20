@@ -5583,6 +5583,36 @@ TVWorkNet,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 제주 MBC (MBC Jeju),https://5cf58a556f9b2.streamlock.net/live/tv_jejumbc/playlist.m3u8
 춘천MBC (MBC Chuncheon) ,https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
 한국선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
+korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w397380413.m3u8
+Channel A,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.index.m3u8
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+EBS i,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+EBS E,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+EBS KIDS,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/ebsutablet500k.m3u8
+YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+가요TV,http://gayotv.net:1935/live/gayotv/playlist.m3u8
+국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+춘천MBC(MBC Chuncheon),https://5c74939c891dc.streamlock.net/live/TV/playlist.m3u8
+CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+Maeil Business Newspaper,rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
+MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+NBS Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+대전MBC(MBC Daejeon),https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
+여수MBC(MBC Yeosu),https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+선거방송,http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+ONe,http://93.190.139.35:8278/streams/d/One/playlist.m3u8
+Arirang,,http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+KBS Wrold,http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
 
 晴天TV-台灣,#genre#
 民視,mitv://ns2.hellotvvod.com:9906/44cf4d1e73cc4c34843382f2bf89d49f
@@ -7724,68 +7754,7 @@ XXX: XY Plus FHD +2,http://iptvmedia.live:8080/FM10008/ee54fb4b/285213
 XXX: Шалун TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/290291
 
 测试频道,#genre# 
-Cunnilingus,p5p://crfccs.kingh888.com:16666/60ab70b60001c9880f7ffd95bace24f3 
-Blonde,p5p://crfccs.kingh888.com:16666/60ab70a40002d72f0f7fb78aefd6892e 
-Solo girl,p5p://crfccs.kingh888.com:16666/60ab7092000628430f7f721440747700 
-Couples,p5p://crfccs.kingh888.com:16666/60ab70820006339d0f7f3396eb1d08dd 
-Big Butt,p5p://crfccs.kingh888.com:16666/60ab7074000469010f7efc7173919dd8 
-Creampie,p5p://crfccs.kingh888.com:16666/60ab7064000574aa0f7ebe36edd56f5d 
-Interracial,p5p://crfccs.kingh888.com:16666/60ab7047000494df0f7e4cb4bbaee6ba 
-Masturbation,p5p://crfccs.kingh888.com:16666/60ab7034000aaf730f7e040c1a43198e 
-BBW,p5p://crfccs.kingh888.com:16666/60ab7022000573560f7dbc65c7a7c516 
-Young/Old,p5p://crfccs.kingh888.com:16666/60ab70110002dad70f7d795342d4455b 
-Public,p5p://crfccs.kingh888.com:16666/60ab6ffb000a2d7f0f7d254314764200 
-Orgy,p5p://crfccs.kingh888.com:16666/60ab6fec00082ce30f7cea283a526c13 
-German,p5p://crfccs.kingh888.com:16666/60ab6fda0007e3e20f7ca3c5f3e96f00 
-Shemale,p5p://crfccs.kingh888.com:16666/60ab6fc800082d9b0f7c5d88192b05b6 
-Amateur,p5p://crfccs.kingh888.com:16666/60ab6fb6000b8a650f7c1814ba6d0807 
-Big Tits,p5p://crfccs.kingh888.com:16666/60ab6fa60009ec320f7bd92abf911f6f 
-Threesome,p5p://crfccs.kingh888.com:16666/60ab6f950004e0220f7b9578b29fcb6e 
-Teen,p5p://crfccs.kingh888.com:16666/60ab6f77000386550f7b1fef3ff04705 
-Strip,p5p://crfccs.kingh888.com:16666/60ab6f630008847b0f7ad31644e78979 
-Milf,p5p://crfccs.kingh888.com:16666/60ab6f5300037e900f7a934df938ee61 
-京彩1,p5p://crfccs.kingh888.com:16666/60ab6f2a000125b50f79f28b8f8bc416 
-京彩2,p5p://crfccs.kingh888.com:16666/60ab6f18000750370f79adcf701ffea1 
-京彩3,p5p://crfccs.kingh888.com:16666/60ab6efa000787ad0f7938ae568e03ff 
-京彩4,p5p://crfccs.kingh888.com:16666/60ab6eea000b90780f78fb362da5bde6 
-京彩5,p5p://crfccs.kingh888.com:16666/60ab6ed70002dde40f78aec43aa651ca 
-京彩6,p5p://crfccs.kingh888.com:16666/60ab6ec40007e3700f7865d5af2800d9 
-京彩7,p5p://crfccs.kingh888.com:16666/60ab6ea5000dc3580f77ee3eb0a503fc 
-京彩8,p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07 
-京粉9,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b 
-京彩10,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
-#__#
-专用1,p5p://fccs.123178.top:9906/6163d1210000438c0d46ea35645dfedb
-专用2,p5p://fccs.123178.top:9906/6163d74a0002fd370d5efb0f7340eb24
-专用3,p5p://fccs.123178.top:9906/6163cdac00048e5f0d396a46d031043b
-专用4,p5p://fccs.123178.top:9906/6163d476000d83df0d53f1a1211aff1e
-专用5,p5p://fccs.123178.top:9906/6163cff50001281f0d42568fc10bcce4
-专用6,p5p://fccs.123178.top:9906/6163d066000135e10d440ffb0dacdaa8
-专用7,p5p://fccs.123178.top:9906/6163d305000e609a0d4e507284a10773
-专用8,p5p://fccs.123178.top:9906/6163cec4000281760d3daf80fc6ddb11
-专用9,p5p://fccs.123178.top:9906/6163d804000cb1070d61d41b5e2c4bc1
-专用10,p5p://fccs.123178.top:9906/6163d5ce00025f560d592e87beb3489c
-专用11,p5p://fccs.123178.top:9906/6163d1210000438c0d46ea35645dfedb
-专用12,p5p://fccs.123178.top:9906/6163d262000030a30d4bd018f5ef2d93
-专用13,p5p://fccs.123178.top:9906/6163db960004ec200d6fc46e629bcf58
-专用14,p5p://fccs.123178.top:9906/6163d262000030a30d4bd018f5ef2d93
-专用15,p5p://fccs.123178.top:9906/6163cdac00048e5f0d396a46d031043b
-#__#
-专用1,p5p://45.92.126.18:19706/6163d1210000438c0d46ea35645dfedb
-专用2,p5p://45.92.126.18:19706/6163d74a0002fd370d5efb0f7340eb24
-专用3,p5p://45.92.126.18:19706/6163cdac00048e5f0d396a46d031043b
-专用4,p5p://45.92.126.18:19706/6163d476000d83df0d53f1a1211aff1e
-专用5,p5p://45.92.126.18:19706/6163cff50001281f0d42568fc10bcce4
-专用6,p5p://45.92.126.18:19706/6163d066000135e10d440ffb0dacdaa8
-专用7,p5p://45.92.126.18:19706/6163d305000e609a0d4e507284a10773
-专用8,p5p://45.92.126.18:19706/6163cec4000281760d3daf80fc6ddb11
-专用9,p5p://45.92.126.18:19706/6163d804000cb1070d61d41b5e2c4bc1
-专用10,p5p://45.92.126.18:19706/6163d5ce00025f560d592e87beb3489c
-专用11,p5p://45.92.126.18:19706/6163d1210000438c0d46ea35645dfedb
-专用12,p5p://45.92.126.18:19706/6163d262000030a30d4bd018f5ef2d93
-专用13,p5p://45.92.126.18:19706/6163db960004ec200d6fc46e629bcf58
-专用14,p5p://45.92.126.18:19706/6163d262000030a30d4bd018f5ef2d93
-专用15,p5p://45.92.126.18:19706/6163cdac00048e5f0d396a46d031043b
+
 关于软件,#genre# 
 STV提醒您：,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/312483548078.mp4 
 严禁商业用途,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/312483548078.mp4 
