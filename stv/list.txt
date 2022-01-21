@@ -3744,29 +3744,6 @@ FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 咪咕视频,http://39.134.39.39/PLTV/88888888/224/3221226112/index.m3u8
 体育赛事1,http://39.134.3.73:6610/000000001666/100000000100111094/1.m3u8
 体育赛事2,http://39.134.3.73:6610/000000001666/100000000100111093/1.m3u8
-wwe,http://148.251.186.238:1234/play/a057
-天空体育24,https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-Fox新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-拜赛马台,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-迪拜体育台,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
-迪拜体育台,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
-迪拜体育台2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
-Abu Dabi Sports 2,http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-阿曼体育,http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-Setanta Sports,http://myott.tv/stream/E9LYLBWT7X/234.m3u8
-网球频道,Https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-UFC,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-搏击网络,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-摔跤电视,https://playout4multirtmp.tulix.tv/live14/Stream1/playlist.m3u8
-硬打击,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
-Billy C Boxing TV,https://playout4multirtmp.tulix.tv/live25/Stream1/playlist.m3u8
-Stadium,https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-Canal 11,https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8 
-QAZ体育HD,http://92.46.127.146:8080/qazsport/index.m3u8
-One高尔夫HD,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-Astrakhan运动,https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
-FIGHT NETWORK,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 影视频道,#genre#
 峨眉电影,http://60.255.49.202/live/emdygqH265_4000.m3u8
@@ -7188,6 +7165,64 @@ ECKO EXPRES music,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/
 NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 
 国外影视,#genre# 
+OSN MOVIES DISNEY ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11356
+OSN ENIGMA ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11355
+NICKELODEON ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11352
+OSN LIVING ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11351
+OSN MEZZE ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11350
+OSN MOVIES ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11349
+OSN MOVIES ACTION ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11348
+OSN MOVIES FIRST ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11347
+OSN MOVIES FIRST+2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11346
+OSN MOVIES KIDS ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11345
+OSN COMEDY ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11343
+OSN MOVIES FIRST ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11342
+OSN YAHALA CINEMA,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11341
+OSN YAHALA ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11340
+OSN YAHALA OULA ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11339
+OSN SERIES FIRST,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11338
+CINEMA 1,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11336
+CINEMA 2,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11335
+FANN,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11334
+AL SAFWA,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11333
+MUSIC NOW,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11332
+STAR MOVIES ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11331
+OSN NEWS ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11330
+TLC ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/65608
+BEIN MOVIES PREMIERE ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11451
+BEIN MOVIES ACTION,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11450
+BEIN MOVIES DRAMA,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11449
+BEIN MOVIES FAMILY,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11448
+BEIN SERIES 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11446
+BEIN SERIES 2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11445
+BEIN DRAMA 1,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11444
+AMC ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11443
+FOX CRIME,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/178286
+FOX ACTION MOVIES ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11442
+BOOMERANG ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11441
+BEIN GOURMET,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11440
+BARAEM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11439
+BE JUNIOR,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11438
+#EXTINF:-1,BEIN FATAFEAT TV,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11437
+BEIN FOX LIFE ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11436
+FOX REWAYAT ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66039
+JEEM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11435
+NAT GEO,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11434
+NAT GEO WILD,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11432
+MBC 1,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11843
+MBC 2,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11842
+MBC 3,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11841
+MBC 4,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11840
+MBC 5,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11839
+MBC ACTION,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11838
+MBC DRAMA,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11837
+MBC MASR,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11836
+MBC MASR 2,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11835
+MBC BOLLYWOOD,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11834
+MBC MAX,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11833
+MBC IRAQ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11832
+MBC+ DRAMA ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11831
+
 FOX Movies Asia Thai,https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 FOX Russia,http://188.40.68.167/russia/fox_russia_sd/playlist.m3u8
 FOX Crime,https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
@@ -7230,6 +7265,178 @@ Dabaang India,http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m
 ZEE BOLLYWOOD HD,http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8 
 ZEE ACTION,http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 American Horrors,http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+国外体育,#genre# 
+wwe,http://148.251.186.238:1234/play/a057
+天空体育24,https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+Fox新闻,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+拜赛马台,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+迪拜体育台,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+迪拜体育台,http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+迪拜体育台2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
+Abu Dabi Sports 2,http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+阿曼体育,http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+Setanta Sports,http://myott.tv/stream/E9LYLBWT7X/234.m3u8
+网球频道,Https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+UFC,https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+搏击网络,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+摔跤电视,https://playout4multirtmp.tulix.tv/live14/Stream1/playlist.m3u8
+硬打击,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+Billy C Boxing TV,https://playout4multirtmp.tulix.tv/live25/Stream1/playlist.m3u8
+Stadium,https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+Canal 11,https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8 
+QAZ体育HD,http://92.46.127.146:8080/qazsport/index.m3u8
+One高尔夫HD,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+Astrakhan运动,https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+FIGHT NETWORK,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+Math 1HD,http://193.33.88.172/football1_hd/index.m3u8
+Math 2HD,http://193.33.88.172/football2_hd/index.m3u8
+Math 3HD,http://193.33.88.172/football3_hd/index.m3u8
+
+BEIN MAX 1,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300138
+BEIN MAX 2,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300137
+BEIN SPORTS MAX 3,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300136
+BEIN SPORTS MAX 4,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300135
+BEIN SPORTS MAX 5,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300134
+BEIN SPORTS MAX 6,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300133
+BEIN MAX 1,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300144
+BEIN MAX 2,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300143
+BEIN SPORTS MAX 3,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300142
+BEIN SPORTS MAX 4,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300141
+BEIN SPORTS MAX 5,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300140
+BEIN SPORTS MAX 6,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300139
+BEIN MAX 1,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300150
+BEIN MAX 2,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300149
+BEIN SPORTS MAX 3,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300148
+BEIN SPORTS MAX 4,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300147
+BEIN SPORTS MAX 5,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300146
+BEIN SPORTS MAX 6,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300145
+BEIN MAX 1,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300132
+BEIN MAX 2,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300131
+BEIN SPORTS MAX 3,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300130
+BEIN SPORTS MAX 4,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300129
+BEIN SPORTS 1 ,http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/306711
+BEIN SPORT HD,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4929
+BEIN SPORTS NBA HD,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4928
+BEIN SPORT NEWS HD,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4927
+BEIN SPORTS 1 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4919
+BEIN SPORTS 2 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4918
+BEIN SPORTS 3 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4917
+BEIN SPORTS 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4926
+BEIN SPORTS 2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4925
+BEIN SPORTS 3 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4924
+BEIN SPORTS 4 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4923
+BEIN SPORTS 5 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4922
+BEIN SPORTS 6 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4921
+BEIN SPORTS 7,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4920
+BEIN SPORTS XTRA 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4916
+BEIN SPORTS XTRA 2,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4915
+BEIN SPORTS 1 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4914
+BEIN SPORTS 2 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4913
+BEIN SPORTS 3 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4912
+BEIN SPORTS 1 FRENCH,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4911
+PPV 1,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/250232
+PPV 2,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/62208
+PPV 3,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/62207
+BEIN SPORT HD,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11430
+BEIN SPORTS NBA HD,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11429
+BEIN SPORTS NEWS HD,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11428
+BEIN SPORTS 1 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139074
+BEIN SPORTS 2 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139073
+BEIN SPORTS 3 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139072
+BEIN SPORTS 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11427
+BEIN SPORTS 2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11426
+BEIN SPORTS 3,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11425
+BEIN SPORTS 4 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11424
+BEIN SPORTS 5 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11423
+BEIN SPORTS 6 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11422
+BEIN SPORTS 7 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11421
+BEIN MAX 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300116
+BEIN MAX 2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300115
+BEIN SPORTS MAX 3,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300114
+BEIN SPORTS MAX 4 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300113
+BEIN SPORTS MAX 5 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300112
+BEIN SPORTS MAX 6,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300111
+BEIN SPORTS 1 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139080
+BEIN SPORTS 2 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139079
+BEIN SPORTS 3 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139078
+BEIN SPORTS 1 FRENCH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139077
+BEIN SPORTS 2 FRENCH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139076
+BEIN SPORTS 3 FRENCH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139075
+BEIN SPORTS XTRA 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/146394
+BEIN SPORTS XTRA 2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/146395
+BEIN SPORTS 1 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139083
+BEIN SPORTS 2 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139082
+BEIN SPORTS 3 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139081
+BEIN SPORTS 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11406
+BEIN SPORTS 2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11405
+BEIN SPORTS 3 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11404
+BEIN SPORTS 4 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11403
+BEIN SPORTS 5 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11402
+BEIN SPORTS 6 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11401
+BEIN SPORTS 7 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11400
+BEIN SPORTS 1 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139089
+BEIN SPORTS 2 ENGLISH,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139088
+BEIN SPORTS 3 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139087
+BEIN SPORTS 1 FRENCH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139086
+BEIN SPORTS 2 FRENCH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139085
+BEIN SPORTS 3 FRENCH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139084
+BEIN MAX 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300122
+BEIN MAX 2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300121
+BEIN SPORTS MAX 3,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300120
+BEIN SPORTS MAX 4 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300119
+BEIN SPORTS MAX 5 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300118
+BEIN SPORTS MAX 6 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300117
+BEIN SPORTS XTRA 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139091
+BEIN SPORTS XTRA 2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139090
+BEIN 4K,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/304810
+BEIN SPORTS 1 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66045
+BEIN SPORTS 2 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66046
+BEIN SPORTS 3 PREMIUM ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66047
+BEIN SPORTS 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66054
+BEIN SPORTS 2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66057
+BEIN SPORTS 3 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66058
+BEIN SPORTS 4 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66048
+BEIN SPORTS 5 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66049
+BEIN SPORTS 6 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66050
+BEIN SPORTS 7 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66051
+BEIN MAX 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300128
+BEIN MAX 2 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300127
+BEIN SPORTS MAX 3 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300126
+BEIN SPORTS MAX 4 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300125
+BEIN SPORTS MAX 5 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300124
+BEIN SPORTS MAX 6 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300123
+BEIN SPORTS 1 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66059
+BEIN SPORTS 2 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66060
+BEIN SPORTS 3 ENGLISH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66061
+BEIN SPORTS 1 FRENCH,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66062
+BEIN SPORTS 2 FRENCH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139059
+BEIN SPORTS 3 FRENCH ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139060
+BEIN SPORTS XTRA 1 ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66052
+BEIN SPORTS XTRA 2,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66053#http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/155815
+CANAL+ SPORT 5,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/155814
+CANAL+ SPORT 4,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/155813
+CANAL+ SPORT 3,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/155812
+CANAL+ SPORT 2,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/155811
+CANAL+ SPORT 1,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/155810,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/239278,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/250231
+CANAL+ SPORT,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12791
+CANAL+ PREMIER LEAGUE,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/138279
+CANAL+ ,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/138278
+CANAL+ FORMULE1,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/138277
+CANAL+ MOTOGP,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/239278
+BEIN SPORT 1,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12605
+BEIN SPORT 2,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12604
+BEIN SPORT 3,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12603
+BEIN SPORT MAX 4,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12602
+BEIN SPORT MAX 5,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12601
+BEIN SPORT MAX 6,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12600
+BEIN SPORT MAX 7,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12599
+BEIN SPORT MAX 8,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12598
+BEIN SPORT MAX 9,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12597
+BEIN SPORT MAX 10,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12596,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12559
+RMC SPORT 1,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12557
+RMC SPORT 2,http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12556
 
 时尚频道,#genre# 
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
@@ -7557,330 +7764,6 @@ Twenty Four News (576p),http://103.199.160.85/Content/24news/Live/Channel(24news
 Visión Noticias Perú (VNP),https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 WSJ (1080p),https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
 WSVN Fox 7 Miami (720p),https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
-
-私人频道_111,#genre# 
-彩虹e台,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
- 彩虹电影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
- LOOK TV,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8 
-潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/fe6b69fa1cad4dcc9d71d9b4503b3f61 
-惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/5a83823b245b48089fbeda6d909d1cd8 
-松视1台,mitv://ns2.hellotvvod.com:9906/d26e39a5f79a40c0b3e430888c5ae244
-松视1台,rtmp://125.227.196.250:1935/live/PineVision1
- 松视2台,mitv://ns2.hellotvvod.com:9906/250af9c54ac14378bd2f07bb7c0c408b
- 潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/2c987e0d3e74400d946478e92ba491e6
- PLAYBOY,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69 
-香蕉台,mitv://ns2.hellotvvod.com:9906/bfd038a20bbb4f9d8cba14761e028dfa 
-HOT,mitv://ns2.hellotvvod.com:9906/c89f06c3593342ff9c3cb59d2542a192
- 松视3台,mitv://ns2.hellotvvod.com:9906/5fabc0b58887475e85ed2f1eb77d9de2
- JStar极限台,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a
-HAPPY,mitv://ns2.hellotvvod.com:9906/9895c01831c643ea816f126483f1242d
-松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-松视2台,rtmp://125.227.196.250:1935/live/PineVision2
-松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-松视3台,rtmp://125.227.196.250:1935/live/PineVision3
-潘多拉1,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-Happy,rtmp://125.227.196.250:1935/live/HAPPY台,rtmp://125.227.196.250:1935/live/BananaStation
-彩虹台,rtmp://125.227.196.250:1935/live/Rainbowmovie
-惊艳台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
-K频道,rtmp://125.227.196.250:1935/live/Kchannel
-极限电影台,rtmp://125.227.196.250:1935/live/JSTAR
-潘多拉1台,rtmp://125.227.196.250:1935/live/PandoraPlays
-潘多拉2台,rtmp://125.227.196.250:1935/live/PandoraPink
-
-#__#
-松視1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
-松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-松視4台,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
-潘朵啦高畫質玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
-$__$
-彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
-彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
-香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
-驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
-潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
-JStar極限台電影頻道,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
-松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
-松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
-Hot,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts
-$__$
-彩虹E台,p9p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
-彩虹电影,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
-Look TV,p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
-惊艳台,p9p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b.ts
-香蕉台,p9p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3.ts
-潘多拉完美,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
-潘多拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
-松視1台,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
-松視2台,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
-松視3台,p9p://45.86.67.154:9906/608be9db0003468b034356b14ecbccf5.ts
-HOT,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
-Happy,p9p://45.86.67.154:9906/60885889000aab420f4c4156421fedd9.ts
-日本J-Girl,p9p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67.ts
-日本PPV-1,p9p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823.ts
-日本加勒比无码,p9p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4.ts
-日本东京热无码,p9p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c.ts
-日本一本道无码,p9p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6.ts
-日本天热素人无码,p9p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1.ts
-中字有码1,p9p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505.ts
-中字有码2,p9p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2.ts
-AV女王,p9p://45.92.126.18:9906/612a26a3000db406153a775beb670d53.ts
-櫻桃,p9p://45.92.126.18:9906/612b29d200070cb6192ee53f19487ff3.ts
-奶奶按摩店,p9p://45.92.126.18:9906/612a25f50003c7f71537cd217b087b71.ts
-香草天道,p9p://45.92.126.18:9906/612a231f000b7d44152cbb2ae557040e.ts
-Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-SuperOne,http://185.96.176.139:8080/superone/index.m3u8
-SuperOne,https://ujeb.se/hNN57X
-Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-SexTreme,http://138.59.177.78:8000/play/a00c
-Erox,http://94.229.250.73:8008/play/a002
-VENUS,http://170.83.242.153:8000/play/a00z
-[720]Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-[1080]PLAYBOY,http://efv.me:80/eliana/eliana123/129544
-[1080]PLAYBOY,http://efv.me:80/eliana/eliana123/4897
-[720]PLAYBOY,http://efv.me:80/eliana/eliana123/4899
-SEXY HOT,http://efv.me:80/eliana/eliana123/4884
-SEX PRIVE,http://efv.me:80/eliana/eliana123/128194
-VENUS,http://efv.me:80/eliana/eliana123/129438
-SEX HOT,http://efv.me:80/eliana/eliana123/129560
-SEXTREME,http://efv.me:80/eliana/eliana123/129584
-VENUS,http://efv.me:80/eliana/eliana123/4900
-[720]PLAYBOY,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/856558
-XXX: SEXTREME,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863553
-XXX: VENUS,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863558
-Russian Nights,http://78.58.133.179:28000/play/a066/index.m3u8
-Barely legal,http://78.58.133.179:28000/play/a00l/index.m3u8
-Playboy TV,http://78.58.133.179:28000/play/a190/index.m3u8
-X Desire,http://185.226.88.3:1036/live/backup/backup/7.m3u8
-X Bunga Bunga,http://185.226.88.3:1036/live/backup/backup/8.m3u8
-X Bizdrre,http://185.226.88.3:1036/live/backup/backup/9.m3u8
-MyCamTV Teen Girls,http://live.mycamtv.com/teen.m3u8
-MyCamTV MILF,http://live.mycamtv.com/milf.m3u8
-MyCamTV Young Girls,http://live.mycamtv.com/young.m3u8
-MyCamTV Mature,http://live.mycamtv.com/bigtits.m3u8
-MyCamTV Arab Girls,http://live.mycamtv.com/arab.m3u8
-MyCamTV Ebony Girls,http://live.mycamtv.com/ebony.m3u8
-MyCamTV Asian Girls,http://live.mycamtv.com/asian.m3u8
-MyCamTV Brunette Girls,http://live.mycamtv.com/brunette.m3u8
-MyCamTV Latina Girls,http://live.mycamtv.com/latina.m3u8
-MyCamTV White Girls,http://live.mycamtv.com/white.m3u8
-MyCamTV Blonde Girls,http://live.mycamtv.com/blonde.m3u8
-MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
-MyCamTV Big Ass Girls,http://live.mycamtv.com/bigass.m3u8
-MyCamTV Girls Squirt,http://live.mycamtv.com/squirt.m3u8
-MyCamTV Big Tits Girls,http://live.mycamtv.com/bigtits.m3u8
-MyCamTV Skinny Girls,http://live.mycamtv.com/skinny.m3u8
-MyCamTV Medium Girls,http://live.mycamtv.com/medium.m3u8
-MyCamTV Blowjob,http://live.mycamtv.com/blowjob.m3u8
-AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8
-AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
-AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
-AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
-AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8
-AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
-AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8
-AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
-AdultIPTV.net Latina,http://cdn.adultiptv.net/latina.m3u8
-AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8
-AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
-AdultIPTV.net Teen,http://cdn.adultiptv.net/teen.m3u8
-AdultIPTV.net Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
-AdultIPTV.net Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
-AdultIPTV.net Threesome,http://cdn.adultiptv.net/threesome.m3u8
-AdultIPTV.net Russian,http://cdn.adultiptv.net/russian.m3u8
-AdultIPTV.net Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
-AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8
-AdultIPTV.net Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
-AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8
-AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
-AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
-AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
-AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
-Penthouse Gold FHD (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13863
-Penthouse Quickies FHD (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13862
-Vivid RED FHD (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13864
-Redlight FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/674061
-Dorcel FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5529
-EroX (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13867
-EroXXX FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13866
-Dusk (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19678
-Hustler FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/674060
-Hustler (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5525
-Maiden van Holland (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/674125
-Balkan Erotik (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13404
-Brazzers (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13403
-PlayBoy TV HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19674
-Play Boy CA (+18),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/17717
-Playboy (18+) ES,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5512
-Pink\' o TV (18+) IT,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16348
-Pink Erotic 1 (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5521
-Pink Erotic 2 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5520
-Pink Erotic 3 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5519
-Pink Erotic 4 (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5518
-Pink Erotic 5 (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5517
-Pink Erotic 6 (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5516
-Pink Erotic 7 FHD (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5515
-Pink Erotic 8 (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5514
-Porn 1 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5494
-Porn 2 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5493
-Porn 3 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5492
-Porn 4 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5491
-Porn 5 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5490
-Porn 6 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5489
-Porn 7 HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5488
-Porn 8 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5487
-Porn 9 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5486
-Porn 10 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5485
-Porn 11 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/680091
-Primafila Hot Club 2 HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5509
-Primafila Hot Club 3 HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5508
-Primafila Hot Club 4 FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5507
-Primafila Hot Club 6 FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5505
-Primafila Hot Club 7 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5504
-Primafila Hot Club 8 FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5503
-Primafila Hot Club 9 FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5502
-Blacked FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5495
-Bunga Bunga (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5532
-ButGo (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19684
-Candy (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19683
-Centoxcento TV (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19682
-Cento Cento HD (18+) IT,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5531
-Daughter Swap (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19680
-Dusk DeLuxe (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5528
-Desire FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5530
-Hot HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13397
-Hot (18+) PT,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5526
-Dorcel (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19679
-Leo TV (18+) CZ,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16350
-Jasmin TV (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16002
-Passie (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13402
-O La La FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5523
-Moms Teach (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13401
-Meiden van Holland Hard (18+) NL,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5524
-Penthouse FHD (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5522
-Platinum FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5513
-Private (18+) NL,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5501
-Reality Kings (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13399
-Reality Sex (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19670
-Red Light (18+) NL,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5500
-SCT HD (18+) IT,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5498
-Sext Senso (18+) IT,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5497
-Sirina 1 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5536
-Sirina 2 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5535
-Sirina 3 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5534
-Pleasure (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19672
-TGirls (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13398
-Venus (18+) AR,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5496
-SuperOne HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16347
-Hot Club (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19687
-Babes 2 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19701
-Babes 17 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19703
-Nubiles Casting (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13400
-XXX Adult (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/23178
-Vivid TV CA-FR (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/53706
-ALBA XXX 1,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666419
-ALBA XXX 2,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666420
-ALBA XXX 3,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666421
-ALBA XXX 4,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666422
-ALBA XXX 5,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666423
-ALBA XXX 6,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666424
-Fake Agent HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666425
-Fake Taxi HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666428
-Fake Taxi Female FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666429
-Free-XTV (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666431
-XXX: Adult Time,http://iptvmedia.live:8080/FM10008/ee54fb4b/290297
-XXX: Alba XXX 1 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3307
-XXX: Alba XXX 2 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8310
-XXX: Alba XXX 3 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8315
-XXX: Alba XXX 4 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8314
-XXX: Alba XXX 5 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8313
-XXX: Alba XXX 6 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8312
-XXX: Alba XXX HD1 FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8311
-XXX: Alba XXX HD2 FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/201240
-XXX: babes FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3289
-XXX: BALKAN EROTIC HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3320
-XXX: BANG U,http://iptvmedia.live:8080/FM10008/ee54fb4b/3330
-XXX: Bangerz,http://iptvmedia.live:8080/FM10008/ee54fb4b/260354
-XXX: BARELY LEGAL,http://iptvmedia.live:8080/FM10008/ee54fb4b/92037
-XXX: Blue Hustler HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/37296
-XXX: BOXTRUCK SEX FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/282208
-XXX: BRAZZERS TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/79
-XXX: Cento X Cento,http://iptvmedia.live:8080/FM10008/ee54fb4b/245142
-XXX: Dorcel TV FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/53152
-XXX: Dusk HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/75
-XXX: erotic 1 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/37153
-XXX: erotic 2 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/76
-XXX: erotic 3 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3317
-XXX: erotic 4,http://iptvmedia.live:8080/FM10008/ee54fb4b/52
-XXX: erotic 5 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/35814
-XXX: erotic 6 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/77
-XXX: erotic 7 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3318
-XXX: erotic 8 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3319
-XXX: EROX FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3796
-XXX: EROXXX FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/37276
-XXX: Evil Angel HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/146259
-XXX: EXTASY HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/195567
-XXX: Exxxotica TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/3345
-XXX: Fashion TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/192275
-XXX: French Lover,http://iptvmedia.live:8080/FM10008/ee54fb4b/3334
-XXX: HOT HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/1538
-XXX: HOT TABOO,http://iptvmedia.live:8080/FM10008/ee54fb4b/290031
-XXX: HOT XXL,http://iptvmedia.live:8080/FM10008/ee54fb4b/15844
-XXX: Hustler HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/6028
-XXX: Hustler TV RED,http://iptvmedia.live:8080/FM10008/ee54fb4b/290277
-XXX: JASMIN.TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/375
-XXX: LEO TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/283826
-XXX: LEO TV Gold,http://iptvmedia.live:8080/FM10008/ee54fb4b/3326
-XXX: Lust Pur TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/290294
-XXX: Meiden Van Holland HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3311
-XXX: Miami TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/1731
-XXX: Miami TV Jenny Live,http://iptvmedia.live:8080/FM10008/ee54fb4b/285514
-XXX: Miami TV Latino,http://iptvmedia.live:8080/FM10008/ee54fb4b/18344
-XXX: Moviestar PLANET,http://iptvmedia.live:8080/FM10008/ee54fb4b/279268
-XXX: NET XX,http://iptvmedia.live:8080/FM10008/ee54fb4b/3324
-XXX: nuart HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/49169
-XXX: O.La.La HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/36535
-XXX: OLDTIMER HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3322
-XXX: Passie XXX HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/28298
-XXX: Passion XXX HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/48
-XXX: Passion XXX HD +1,http://iptvmedia.live:8080/FM10008/ee54fb4b/283040
-XXX: PENTHOUSE Gold FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/32056
-XXX: PENTHOUSE Quickies FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3284
-XXX: Perv City HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/146314
-XXX: Pinko Club HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3342
-XXX: PLAYBOY DD HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/290310
-XXX: PLAYBOY HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/14222
-XXX: PLAYBOY Latino HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/290309
-XXX: PLAYBOY USA,http://iptvmedia.live:8080/FM10008/ee54fb4b/290342
-XXX: Private TV FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3281
-XXX: Reality Kings TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/383
-XXX: REDLIGHT FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/85
-XXX: Russian Night,http://iptvmedia.live:8080/FM10008/ee54fb4b/49168
-XXX: Secret Circle,http://iptvmedia.live:8080/FM10008/ee54fb4b/290298
-XXX: SeXation,http://iptvmedia.live:8080/FM10008/ee54fb4b/146437
-XXX: SEXTREME HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3309
-XXX: SuperOne HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3286
-XXX: VENUS HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3258
-XXX: VISIT-X TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/28531
-XXX: VIVID Red FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3989
-XXX: VIVID Touch HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3295
-XXX: VIVID TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/146434
-XXX: VIXEN,http://iptvmedia.live:8080/FM10008/ee54fb4b/290296
-XXX: X Bizarre,http://iptvmedia.live:8080/FM10008/ee54fb4b/3313
-XXX: X Bunga Bunga,http://iptvmedia.live:8080/FM10008/ee54fb4b/3315
-XXX: X Desire,http://iptvmedia.live:8080/FM10008/ee54fb4b/3791
-XXX: X-DREAM TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/188977
-XXX: X-DREAM TV 2,http://iptvmedia.live:8080/FM10008/ee54fb4b/290280
-XXX: XXL HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3298
-XXX: XY Max FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/192282
-XXX: XY Mix HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3293
-XXX: XY Plus FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3291
-XXX: XY Plus FHD +1,http://iptvmedia.live:8080/FM10008/ee54fb4b/285212
-XXX: XY Plus FHD +2,http://iptvmedia.live:8080/FM10008/ee54fb4b/285213
-XXX: Шалун TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/290291
 
 测试频道,#genre# 
 翡翠台,http://212.95.133.2/tv/js.php?id=4
@@ -9945,6 +9828,330 @@ LoveRadioFM103.7,http://ls.qingting.fm/live/273.m3u8
 都江堰,http://gccncc.v.wscdns.com/gc/ipanda1000_1.flv
 都江堰,http://gccnchwc.v.cdn20.com/gc/ipanda1000_1.flv
 都江堰,http://gctxyc.liveplay.myqcloud.com/gc/ipanda1000_1.flv
+
+私人频道_111,#genre# 
+彩虹e台,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
+ 彩虹电影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
+ LOOK TV,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8 
+潘朵啦玩美台,mitv://ns2.hellotvvod.com:9906/fe6b69fa1cad4dcc9d71d9b4503b3f61 
+惊艳成人电影台,mitv://ns2.hellotvvod.com:9906/5a83823b245b48089fbeda6d909d1cd8 
+松视1台,mitv://ns2.hellotvvod.com:9906/d26e39a5f79a40c0b3e430888c5ae244
+松视1台,rtmp://125.227.196.250:1935/live/PineVision1
+ 松视2台,mitv://ns2.hellotvvod.com:9906/250af9c54ac14378bd2f07bb7c0c408b
+ 潘朵啦粉红台,mitv://ns2.hellotvvod.com:9906/2c987e0d3e74400d946478e92ba491e6
+ PLAYBOY,mitv://ns2.hellotvvod.com:9906/0f556fcf0fe14d5cb86755ec642ced69 
+香蕉台,mitv://ns2.hellotvvod.com:9906/bfd038a20bbb4f9d8cba14761e028dfa 
+HOT,mitv://ns2.hellotvvod.com:9906/c89f06c3593342ff9c3cb59d2542a192
+ 松视3台,mitv://ns2.hellotvvod.com:9906/5fabc0b58887475e85ed2f1eb77d9de2
+ JStar极限台,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a
+HAPPY,mitv://ns2.hellotvvod.com:9906/9895c01831c643ea816f126483f1242d
+松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+松视2台,rtmp://125.227.196.250:1935/live/PineVision2
+松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+松视3台,rtmp://125.227.196.250:1935/live/PineVision3
+潘多拉1,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+Happy,rtmp://125.227.196.250:1935/live/HAPPY台,rtmp://125.227.196.250:1935/live/BananaStation
+彩虹台,rtmp://125.227.196.250:1935/live/Rainbowmovie
+惊艳台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
+K频道,rtmp://125.227.196.250:1935/live/Kchannel
+极限电影台,rtmp://125.227.196.250:1935/live/JSTAR
+潘多拉1台,rtmp://125.227.196.250:1935/live/PandoraPlays
+潘多拉2台,rtmp://125.227.196.250:1935/live/PandoraPink
+
+#__#
+松視1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
+松視2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+松視3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+松視4台,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
+潘朵啦高畫質玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+$__$
+彩虹e台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e.ts
+彩虹電影台,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913.ts
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1.ts
+驚豔成人電影台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2.ts
+潘朵啦高畫質玩美台,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931.ts
+JStar極限台電影頻道,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d.ts
+松視1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1.ts
+松視2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce.ts
+Hot,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571.ts
+$__$
+彩虹E台,p9p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
+彩虹电影,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
+Look TV,p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
+惊艳台,p9p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b.ts
+香蕉台,p9p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3.ts
+潘多拉完美,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
+潘多拉粉红,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
+松視1台,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
+松視2台,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
+松視3台,p9p://45.86.67.154:9906/608be9db0003468b034356b14ecbccf5.ts
+HOT,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
+Happy,p9p://45.86.67.154:9906/60885889000aab420f4c4156421fedd9.ts
+日本J-Girl,p9p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67.ts
+日本PPV-1,p9p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823.ts
+日本加勒比无码,p9p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4.ts
+日本东京热无码,p9p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c.ts
+日本一本道无码,p9p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6.ts
+日本天热素人无码,p9p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1.ts
+中字有码1,p9p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505.ts
+中字有码2,p9p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2.ts
+AV女王,p9p://45.92.126.18:9906/612a26a3000db406153a775beb670d53.ts
+櫻桃,p9p://45.92.126.18:9906/612b29d200070cb6192ee53f19487ff3.ts
+奶奶按摩店,p9p://45.92.126.18:9906/612a25f50003c7f71537cd217b087b71.ts
+香草天道,p9p://45.92.126.18:9906/612a231f000b7d44152cbb2ae557040e.ts
+Filmon TV 2 (18+),http://www.filmon.com/vr-streams/6158.high/playlist.m3u8
+Filmon TV 4 (18+),http://www.filmon.com/vr-streams/6152.high/playlist.m3u8
+SuperOne,http://185.96.176.139:8080/superone/index.m3u8
+SuperOne,https://ujeb.se/hNN57X
+Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+SexTreme,http://138.59.177.78:8000/play/a00c
+Erox,http://94.229.250.73:8008/play/a002
+VENUS,http://170.83.242.153:8000/play/a00z
+[720]Rouge TV,http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+[1080]PLAYBOY,http://efv.me:80/eliana/eliana123/129544
+[1080]PLAYBOY,http://efv.me:80/eliana/eliana123/4897
+[720]PLAYBOY,http://efv.me:80/eliana/eliana123/4899
+SEXY HOT,http://efv.me:80/eliana/eliana123/4884
+SEX PRIVE,http://efv.me:80/eliana/eliana123/128194
+VENUS,http://efv.me:80/eliana/eliana123/129438
+SEX HOT,http://efv.me:80/eliana/eliana123/129560
+SEXTREME,http://efv.me:80/eliana/eliana123/129584
+VENUS,http://efv.me:80/eliana/eliana123/4900
+[720]PLAYBOY,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/856558
+XXX: SEXTREME,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863553
+XXX: VENUS,http://neonp2p.com:8080/11991166879vlamirt2/aqwecvr147as/863558
+Russian Nights,http://78.58.133.179:28000/play/a066/index.m3u8
+Barely legal,http://78.58.133.179:28000/play/a00l/index.m3u8
+Playboy TV,http://78.58.133.179:28000/play/a190/index.m3u8
+X Desire,http://185.226.88.3:1036/live/backup/backup/7.m3u8
+X Bunga Bunga,http://185.226.88.3:1036/live/backup/backup/8.m3u8
+X Bizdrre,http://185.226.88.3:1036/live/backup/backup/9.m3u8
+MyCamTV Teen Girls,http://live.mycamtv.com/teen.m3u8
+MyCamTV MILF,http://live.mycamtv.com/milf.m3u8
+MyCamTV Young Girls,http://live.mycamtv.com/young.m3u8
+MyCamTV Mature,http://live.mycamtv.com/bigtits.m3u8
+MyCamTV Arab Girls,http://live.mycamtv.com/arab.m3u8
+MyCamTV Ebony Girls,http://live.mycamtv.com/ebony.m3u8
+MyCamTV Asian Girls,http://live.mycamtv.com/asian.m3u8
+MyCamTV Brunette Girls,http://live.mycamtv.com/brunette.m3u8
+MyCamTV Latina Girls,http://live.mycamtv.com/latina.m3u8
+MyCamTV White Girls,http://live.mycamtv.com/white.m3u8
+MyCamTV Blonde Girls,http://live.mycamtv.com/blonde.m3u8
+MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
+MyCamTV Big Ass Girls,http://live.mycamtv.com/bigass.m3u8
+MyCamTV Girls Squirt,http://live.mycamtv.com/squirt.m3u8
+MyCamTV Big Tits Girls,http://live.mycamtv.com/bigtits.m3u8
+MyCamTV Skinny Girls,http://live.mycamtv.com/skinny.m3u8
+MyCamTV Medium Girls,http://live.mycamtv.com/medium.m3u8
+MyCamTV Blowjob,http://live.mycamtv.com/blowjob.m3u8
+AdultIPTV.net Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+AdultIPTV.net MILF,http://cdn.adultiptv.net/milf.m3u8
+AdultIPTV.net Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+AdultIPTV.net Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
+AdultIPTV.net Fetish,http://cdn.adultiptv.net/fetish.m3u8
+AdultIPTV.net Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+AdultIPTV.net Big Ass,http://cdn.adultiptv.net/bigass.m3u8
+AdultIPTV.net Interracial,http://cdn.adultiptv.net/interracial.m3u8
+AdultIPTV.net Latina,http://cdn.adultiptv.net/latina.m3u8
+AdultIPTV.net POV,http://cdn.adultiptv.net/pov.m3u8
+AdultIPTV.net Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+AdultIPTV.net Teen,http://cdn.adultiptv.net/teen.m3u8
+AdultIPTV.net Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+AdultIPTV.net Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
+AdultIPTV.net Threesome,http://cdn.adultiptv.net/threesome.m3u8
+AdultIPTV.net Russian,http://cdn.adultiptv.net/russian.m3u8
+AdultIPTV.net Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+AdultIPTV.net Rough,http://cdn.adultiptv.net/rough.m3u8
+AdultIPTV.net Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+AdultIPTV.net Anal,http://cdn.adultiptv.net/anal.m3u8
+AdultIPTV.net Compilation,http://cdn.adultiptv.net/compilation.m3u8
+AdultIPTV.net Brunette,http://cdn.adultiptv.net/brunette.m3u8
+AdultIPTV.net Blonde,http://cdn.adultiptv.net/blonde.m3u8
+AdultIPTV.net Gay,http://cdn.adultiptv.net/gay.m3u8
+AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
+Penthouse Gold FHD (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13863
+Penthouse Quickies FHD (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13862
+Vivid RED FHD (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13864
+Redlight FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/674061
+Dorcel FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5529
+EroX (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13867
+EroXXX FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13866
+Dusk (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19678
+Hustler FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/674060
+Hustler (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5525
+Maiden van Holland (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/674125
+Balkan Erotik (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13404
+Brazzers (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13403
+PlayBoy TV HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19674
+Play Boy CA (+18),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/17717
+Playboy (18+) ES,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5512
+Pink\' o TV (18+) IT,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16348
+Pink Erotic 1 (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5521
+Pink Erotic 2 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5520
+Pink Erotic 3 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5519
+Pink Erotic 4 (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5518
+Pink Erotic 5 (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5517
+Pink Erotic 6 (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5516
+Pink Erotic 7 FHD (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5515
+Pink Erotic 8 (18+) EX-YU,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5514
+Porn 1 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5494
+Porn 2 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5493
+Porn 3 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5492
+Porn 4 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5491
+Porn 5 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5490
+Porn 6 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5489
+Porn 7 HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5488
+Porn 8 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5487
+Porn 9 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5486
+Porn 10 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5485
+Porn 11 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/680091
+Primafila Hot Club 2 HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5509
+Primafila Hot Club 3 HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5508
+Primafila Hot Club 4 FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5507
+Primafila Hot Club 6 FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5505
+Primafila Hot Club 7 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5504
+Primafila Hot Club 8 FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5503
+Primafila Hot Club 9 FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5502
+Blacked FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5495
+Bunga Bunga (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5532
+ButGo (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19684
+Candy (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19683
+Centoxcento TV (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19682
+Cento Cento HD (18+) IT,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5531
+Daughter Swap (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19680
+Dusk DeLuxe (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5528
+Desire FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5530
+Hot HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13397
+Hot (18+) PT,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5526
+Dorcel (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19679
+Leo TV (18+) CZ,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16350
+Jasmin TV (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16002
+Passie (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13402
+O La La FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5523
+Moms Teach (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13401
+Meiden van Holland Hard (18+) NL,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5524
+Penthouse FHD (18+) US,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5522
+Platinum FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5513
+Private (18+) NL,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5501
+Reality Kings (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13399
+Reality Sex (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19670
+Red Light (18+) NL,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5500
+SCT HD (18+) IT,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5498
+Sext Senso (18+) IT,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5497
+Sirina 1 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5536
+Sirina 2 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5535
+Sirina 3 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5534
+Pleasure (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19672
+TGirls (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13398
+Venus (18+) AR,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5496
+SuperOne HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/16347
+Hot Club (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19687
+Babes 2 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19701
+Babes 17 (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19703
+Nubiles Casting (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13400
+XXX Adult (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/23178
+Vivid TV CA-FR (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/53706
+ALBA XXX 1,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666419
+ALBA XXX 2,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666420
+ALBA XXX 3,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666421
+ALBA XXX 4,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666422
+ALBA XXX 5,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666423
+ALBA XXX 6,http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666424
+Fake Agent HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666425
+Fake Taxi HD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666428
+Fake Taxi Female FHD (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666429
+Free-XTV (18+),http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/666431
+XXX: Adult Time,http://iptvmedia.live:8080/FM10008/ee54fb4b/290297
+XXX: Alba XXX 1 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3307
+XXX: Alba XXX 2 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8310
+XXX: Alba XXX 3 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8315
+XXX: Alba XXX 4 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8314
+XXX: Alba XXX 5 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8313
+XXX: Alba XXX 6 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8312
+XXX: Alba XXX HD1 FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/8311
+XXX: Alba XXX HD2 FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/201240
+XXX: babes FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3289
+XXX: BALKAN EROTIC HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3320
+XXX: BANG U,http://iptvmedia.live:8080/FM10008/ee54fb4b/3330
+XXX: Bangerz,http://iptvmedia.live:8080/FM10008/ee54fb4b/260354
+XXX: BARELY LEGAL,http://iptvmedia.live:8080/FM10008/ee54fb4b/92037
+XXX: Blue Hustler HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/37296
+XXX: BOXTRUCK SEX FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/282208
+XXX: BRAZZERS TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/79
+XXX: Cento X Cento,http://iptvmedia.live:8080/FM10008/ee54fb4b/245142
+XXX: Dorcel TV FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/53152
+XXX: Dusk HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/75
+XXX: erotic 1 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/37153
+XXX: erotic 2 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/76
+XXX: erotic 3 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3317
+XXX: erotic 4,http://iptvmedia.live:8080/FM10008/ee54fb4b/52
+XXX: erotic 5 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/35814
+XXX: erotic 6 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/77
+XXX: erotic 7 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3318
+XXX: erotic 8 HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3319
+XXX: EROX FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3796
+XXX: EROXXX FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/37276
+XXX: Evil Angel HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/146259
+XXX: EXTASY HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/195567
+XXX: Exxxotica TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/3345
+XXX: Fashion TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/192275
+XXX: French Lover,http://iptvmedia.live:8080/FM10008/ee54fb4b/3334
+XXX: HOT HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/1538
+XXX: HOT TABOO,http://iptvmedia.live:8080/FM10008/ee54fb4b/290031
+XXX: HOT XXL,http://iptvmedia.live:8080/FM10008/ee54fb4b/15844
+XXX: Hustler HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/6028
+XXX: Hustler TV RED,http://iptvmedia.live:8080/FM10008/ee54fb4b/290277
+XXX: JASMIN.TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/375
+XXX: LEO TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/283826
+XXX: LEO TV Gold,http://iptvmedia.live:8080/FM10008/ee54fb4b/3326
+XXX: Lust Pur TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/290294
+XXX: Meiden Van Holland HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3311
+XXX: Miami TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/1731
+XXX: Miami TV Jenny Live,http://iptvmedia.live:8080/FM10008/ee54fb4b/285514
+XXX: Miami TV Latino,http://iptvmedia.live:8080/FM10008/ee54fb4b/18344
+XXX: Moviestar PLANET,http://iptvmedia.live:8080/FM10008/ee54fb4b/279268
+XXX: NET XX,http://iptvmedia.live:8080/FM10008/ee54fb4b/3324
+XXX: nuart HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/49169
+XXX: O.La.La HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/36535
+XXX: OLDTIMER HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3322
+XXX: Passie XXX HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/28298
+XXX: Passion XXX HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/48
+XXX: Passion XXX HD +1,http://iptvmedia.live:8080/FM10008/ee54fb4b/283040
+XXX: PENTHOUSE Gold FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/32056
+XXX: PENTHOUSE Quickies FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3284
+XXX: Perv City HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/146314
+XXX: Pinko Club HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3342
+XXX: PLAYBOY DD HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/290310
+XXX: PLAYBOY HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/14222
+XXX: PLAYBOY Latino HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/290309
+XXX: PLAYBOY USA,http://iptvmedia.live:8080/FM10008/ee54fb4b/290342
+XXX: Private TV FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3281
+XXX: Reality Kings TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/383
+XXX: REDLIGHT FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/85
+XXX: Russian Night,http://iptvmedia.live:8080/FM10008/ee54fb4b/49168
+XXX: Secret Circle,http://iptvmedia.live:8080/FM10008/ee54fb4b/290298
+XXX: SeXation,http://iptvmedia.live:8080/FM10008/ee54fb4b/146437
+XXX: SEXTREME HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3309
+XXX: SuperOne HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3286
+XXX: VENUS HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3258
+XXX: VISIT-X TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/28531
+XXX: VIVID Red FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3989
+XXX: VIVID Touch HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3295
+XXX: VIVID TV HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/146434
+XXX: VIXEN,http://iptvmedia.live:8080/FM10008/ee54fb4b/290296
+XXX: X Bizarre,http://iptvmedia.live:8080/FM10008/ee54fb4b/3313
+XXX: X Bunga Bunga,http://iptvmedia.live:8080/FM10008/ee54fb4b/3315
+XXX: X Desire,http://iptvmedia.live:8080/FM10008/ee54fb4b/3791
+XXX: X-DREAM TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/188977
+XXX: X-DREAM TV 2,http://iptvmedia.live:8080/FM10008/ee54fb4b/290280
+XXX: XXL HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3298
+XXX: XY Max FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/192282
+XXX: XY Mix HD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3293
+XXX: XY Plus FHD,http://iptvmedia.live:8080/FM10008/ee54fb4b/3291
+XXX: XY Plus FHD +1,http://iptvmedia.live:8080/FM10008/ee54fb4b/285212
+XXX: XY Plus FHD +2,http://iptvmedia.live:8080/FM10008/ee54fb4b/285213
+XXX: Шалун TV,http://iptvmedia.live:8080/FM10008/ee54fb4b/290291
 
 关于软件,#genre# 
 STV提醒您：,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/312483548078.mp4 
