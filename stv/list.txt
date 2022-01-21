@@ -3755,7 +3755,7 @@ FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 影视频道,#genre#
 峨眉电影,http://60.255.49.202/live/emdygqH265_4000.m3u8
-精彩影视,http://39.134.3.73:6610/000000001666/100000000100111200/1.m3u8
+精彩影视,http://39.134.3.73:6610/000000001666/100000000100111200/1.m3u8#http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000149&playtoken=ABCDEFGH&auth=no
 都市剧场,http://39.134.3.73:6610/000000001666/100000000100111209/1.m3u8
 陕西西部电影,http://111.20.33.93/TVOD/88888893/224/3221226364/index.m3u8
 陕西电影,http://111.20.33.93/TVOD/88888893/224/3221226360/index.m3u8
@@ -3918,9 +3918,10 @@ CHC家庭影院,http://119.125.134.197:9901/tsfile/live/1028_1.m3u8
 CHC动作电影,http://119.125.134.197:9901/tsfile/live/1029_1.m3u8
 CHC高清电影,http://119.125.134.197:9901/tsfile/live/1030_1.m3u8
 高清大片,http://119.125.134.197:9901/tsfile/live/1032_1.m3u8
-CBN每日影院,http://119.125.134.197:9901/tsfile/live/1033_1.m3u8
-CBN幸福剧场,http://119.125.134.197:9901/tsfile/live/1034_1.m3u8
-CBN幸福娱乐,http://119.125.134.197:9901/tsfile/live/1035_1.m3u8
+CBN每日影院,http://119.125.134.197:9901/tsfile/live/1033_1.m3u8#http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000565&playtoken=ABCDEFGH&auth=no
+CBN幸福剧场,http://119.125.134.197:9901/tsfile/live/1034_1.m3u8#http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000566&playtoken=ABCDEFGH&auth=no
+CBN幸福娱乐,http://119.125.134.197:9901/tsfile/live/1035_1.m3u8#http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000567&playtoken=ABCDEFGH&auth=no
+CBN风尚生活,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000568&playtoken=ABCDEFGH&auth=no
 动漫秀场,http://119.125.134.197:9901/tsfile/live/1037_1.m3u8
 都市剧场,http://119.125.134.197:9901/tsfile/live/1086_1.m3u8
 CHC 动作电影 HD,http://39.134.19.68:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8#http://139.209.38.113:9901/tsfile/live/1018_1.m3u8
