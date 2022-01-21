@@ -110,7 +110,15 @@ CGTN法语,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/32212271
 星空卫视,http://qwas.eatuo.com:9901/tsfile/live/1080_1.m3u8
 纪实人文,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225654/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226230/index.m3u8#ttp://39.135.140.232:6610/PLTV/88888888/224/3221225609/2/index.m3u8?fmt=ts2hls
 金鹰纪实,http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8#http://39.135.140.232:6610/PLTV/88888888/224/3221225595/2/index.m3u8?fmt=ts2hls
-
+中国交通北京,https://tv.lanjingfm.com/cctbn/beijing.m3u8
+中国交通吉林,https://tv.lanjingfm.com/cctbn/jilin.m3u8
+中国交通湖北,https://tv.lanjingfm.com/cctbn/hubei.m3u8
+中国交通安徽,https://tv.lanjingfm.com/cctbn/anhui.m3u8
+中国交通河北,https://tv.cctbn.com/cctbn/hebei/playlist.m3u8
+中国交通四川,https://tv.lanjingfm.com/cctbn/sichuan.m3u8
+中国交通海南,https://tv.lanjingfm.com/cctbn/hainan.m3u8
+中国交通重庆,https://tv.lanjingfm.com/cctbn/chongqing.m3u8
+中国交通广东,http://27.39.123.20:9901/tsfile/live/1078_1.m3u8#https://tv.lanjingfm.com/cctbn/guangdong.m3u8
 山东齐鲁,http://222.175.202.90:9901/tsfile/live/1010_1.m3u8
 山东体育,http://119.164.216.162:9901/tsfile/live/1003_1.m3u8
 山东少儿,http://119.164.216.162:9901/tsfile/live/1005_1.m3u8
