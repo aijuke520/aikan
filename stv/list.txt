@@ -133,7 +133,7 @@ CCTV16-4K,http://223.110.235.9/ott.js.chinamobile.com/PLTV/3/224/3221228168/inde
 4K电影,http://60.255.49.202/live/emdy4k_8000.m3u8
 河南卫视4K,http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1&servicetype=1&IASHttpSessionId=OTT
 咪咕4K,http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?#http://39.135.46.246:6610/PLTV/77777777/224/3221225863/index.m3u8?#http://39.134.39.39/PLTV/88888888/224/3221226351/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226351/index.m3u8
-广东综艺4K,http://27.39.123.20:9901/tsfile/live/1009_1.m3u8#http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=77&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+广东综艺4K,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=77&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 广州南国都市4K,http://aplay.gztv.com/sec/shenghuos.m3u8
 #http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=123&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 VR景区4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230560/1.m3u8
